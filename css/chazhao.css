@@ -1,0 +1,173 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.eot');
+  src: url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.svg#iconfont') format('svg');
+}
+.chazhao_top{
+	height: 3rem;
+}
+.quanxian_top span:nth-child(3){
+	float: right;
+	font-size: 0.45rem;
+}
+.chazhao_top span:nth-child(2){
+	margin-left: 0.5rem;
+}
+.chazhao_bottom input{
+	width: 9.95rem;
+	height: 0.9rem;
+	border: 0.01rem solid #ccc;
+	outline: none;
+	margin-left: 0rem; 
+	font-family: iconfont;
+	border-radius: 0.2rem;
+	margin-top: 0.74rem;
+}
+.chazhao_yonghu {
+	overflow: hidden;
+	border-bottom: 0.02rem solid #ccc;
+}
+.chazhao_yonghu .yonghu1,.chazhao_yonghu .yonghu2{
+	width: 50%;
+	float: left;
+	text-align: center;
+	line-height: 1.16rem;
+	font-size: 0.45rem;
+	position: relative;
+}
+.line{
+	width: 100%;
+	height: 0.05rem;
+	background-color: #F7BC8F;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	opacity: 0;
+}
+.yonghu1 span:hover,.yonghu2 span:hover{
+	color: #F7BC8F;
+}
+.yonghu1:hover .line,.yonghu2:hover .line{
+	opacity: 1;
+}
+.jiahaoyou{
+	height: 4.6rem;
+	width: 100vw;	border-bottom: 0.02rem solid #ccc;
+}
+.jiahaoyou span{
+	font-family: iconfont;
+	margin-left: 0.5rem;
+	font-size: 0.4rem;
+	line-height: 0.4rem;
+	float: left;
+	margin-top: 0.35rem;
+}
+.jiahaoyou h1{
+	font-size: 0.5rem;
+	line-height: 0.45rem;
+	text-align: center;
+	margin-top: 0.85rem;
+}
+.jiahaoyou p{
+	font-size: 0.5rem;
+	line-height: 0.65rem;
+	margin-top: 0.5rem;
+	padding-left: 0.6rem;
+	padding-right: 0.5rem;
+	color: #ABABAB;
+}
+.tongxunluksiqi{
+	width: 3.25rem;
+	height: 0.75rem;
+	background-color: #6BD379;
+	color: #fff;
+	border-radius: 0.6rem;
+	font-size: 0.4rem;
+	line-height: 0.75rem;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 0.35rem;
+}
+.inter{
+	width: 100vw;
+	height: 1rem;
+	background-color: #F6F6F6;
+	text-align: left;
+	font-size: 0.4rem;
+	line-height:1rem;
+	padding-left: 0.35rem;
+	color: #8E8E8E;
+}
+.keneng{
+	padding-top: 0.5rem;
+	width: 100vw;
+	height: 9.2rem;
+}
+.keneng li{
+	overflow: hidden;
+}
+.keneng_left{
+	width: 1.2rem;
+	height: 1.2rem;
+	border-radius: 1.2rem;
+	margin-left: 0.35rem;
+	float: left;	
+	overflow: hidden;
+}
+.keneng_right{
+	width: 9rem;
+	height: 4.75rem;
+	border-bottom: 0.01rem solid #ccc;
+	float: right;
+	padding-top: 0.2rem;
+	position: relative;
+}
+.keneng_right h1{
+	font-size: 0.42rem;
+	line-height: 0.4rem;
+}
+.keneng_right p{
+	font-size: 0.45rem;
+	line-height: 0.44rem;
+	color: #8E8E8E;
+	margin-top: 0.3rem;
+}
+.keneng_right_guanzhu{
+	position: absolute;
+	width: 2.35rem;
+	height: 0.75rem;
+	background-color: #F0A570;
+	top: 0.3rem;
+	right: 0.4rem;
+	border-radius: 0.1rem;
+	color: #fff;
+	text-align: center;
+	
+}
+.keneng_right_guanzhu span:first-child{
+	font-size: 0.75rem;
+	line-height: 0.55rem;
+	float: left;
+	margin-left:0.35rem;
+}
+.keneng_right_guanzhu span:last-child{
+	line-height: 0.75rem;
+	font-size: 0.4rem;
+	float: left;
+	margin-left: 0.12rem;
+}
+.dongtai li{
+	width: 2.7rem;
+	height: 2.7rem;
+	margin-top: 0.3rem;
+	margin-right: 0.3rem;
+	float: left;
+}
+.chazhao_xia{
+	height: 15.05rem;
+	width: 10.8rem;
+	overflow: scroll;
+}

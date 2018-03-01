@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_g1bgw1g1f9mxtj4i.eot');
+  src: url('https://at.alicdn.com/t/font_571612_g1bgw1g1f9mxtj4i.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_g1bgw1g1f9mxtj4i.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571612_g1bgw1g1f9mxtj4i.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_g1bgw1g1f9mxtj4i.svg#iconfont') format('svg');
+}
+.paishe_top{
+	width: 10.8rem;
+	height: 14.35rem;
+	background-color: pink;
+	position: relative;
+}
+.quxiao{
+	position: absolute;
+	top: 0.5rem;
+	left: 0.5rem;
+	font-family: iconfont;
+	font-size: 0.3rem;
+	line-height: 0.3rem;
+	color: #999;
+}
+.shanguangdeng{
+	position: absolute;
+	bottom: 0.5rem;
+	left: 0.5rem;
+}
+.sudu{
+	position: absolute;
+	bottom: 0.5rem;
+	left: 3.45rem;
+}
+.fanzhaun{
+	position: absolute;
+	bottom: 0.5rem;
+	left: 6.6rem;
+}
+.nv{
+	position: absolute;
+	bottom: 0.5rem;
+	left: 9.7rem;
+}
+.paishe_top span{
+	font-family: iconfont;
+	font-size: 0.65rem;
+	color: #fff;
+}
+.paishe_bottom{
+	margin-bottom:0.63rem ;
+}
+.xiaolian{
+	width: 1.53rem;
+	height: 1.53rem;
+	border-radius: 4.53rem;
+	border:1px solid #666;
+	margin-top: 1.5rem;
+	margin-left: 1.05rem;
+	font-family: iconfont;
+	font-size: 0.7rem;
+	line-height: 1.53rem;
+	text-align: center;
+	float: left;
+}
+.kaishi{
+	width: 2.23rem;
+	height: 2.23rem;
+	border: 0.02rem solid #F36D78;
+	margin-top: 1rem;
+	border-radius: 2.23rem;
+	margin-left: 1.7rem;
+	float: left;
+}
+.kaishi1{
+	width: 2rem;
+	height: 2rem;
+	background-color: #F27070;
+	margin: auto;
+	border-radius: 2rem;
+	margin-top:0.1rem;
+}
+.yinyue{
+	margin-left: 1.75rem;
+	font-size: 0.58rem;
+}
+.paishe_end{
+	width: 10.8rem;
+	height: 1rem;
+	float: left;
+}
+.paishe_end1{
+	margin-top: 0.64rem;
+}
+.xiangji,.paishe,.zhibo{
+	float: left;
+	font-size: 0.47rem;
+	width: 3.6rem;
+	text-align: center;
+}
+.xiangji span,.paishe span,.zhibo span{
+	color: #787878;
+	line-height: 0.92rem;
+}
+.xiangji_line,.paishe_line,.zhibo_line{
+	width: 3.6rem;
+	height: 0.08rem;
+	background-color: #FFA857;
+	opacity: 0;
+}
+.xiangji:hover .xiangji_line,
+.paishe:hover .paishe_line,
+.zhibo:hover .zhibo_line{
+	opacity: 1;
+}
+.xiangji:hover span,
+.paishe:hover span,
+.zhibo:hover span{
+	color: #FFA857;
+}

@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_o3pqjt5hfnso47vi.eot');
+  src: url('https://at.alicdn.com/t/font_571612_o3pqjt5hfnso47vi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_o3pqjt5hfnso47vi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571612_o3pqjt5hfnso47vi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_o3pqjt5hfnso47vi.svg#iconfont') format('svg');
+}
+.top{
+	width: 10.8rem;
+	height: 1.48rem;
+	font-size: 0.48rem;
+	color: #515151;
+	line-height: 1.42rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.more{
+	font-family: iconfont;
+	margin-left: 0.45rem;
+	float: left;
+}
+.guanzhu_line,.faxian_line,.tongcheng_line{
+	border-bottom:0.05rem solid #F99400 ;
+	opacity: 0;
+}
+.guanzhu1{
+	margin-left: 2rem;
+	float: left;
+	height: 1.48rem;
+	opacity: 1;
+}
+.faxian1,.tongcheng1{
+	margin-left: 1.2rem;
+	float: left;
+	height: 1.48rem;
+}
+.guanzhu1:hover .guanzhu_line,.faxian1:hover .faxian_line,
+.tongcheng1:hover .tongcheng_line{
+	opacity: 1;
+}
+.guanzhu1:hover .guanzhu,.faxian1:hover .faxian,
+.tongcheng1:hover .tongcheng{
+	color: #F99400;
+}
+.more1{
+	margin-left: 1.65rem;
+	font-size: 0.52rem;
+}
+.more_yuan{
+	width: 0.18rem;
+	height: 0.18rem;
+	border-radius: 0.18rem;
+	background-color: #FFB169;
+	position: absolute;
+	top: 0.45rem;
+	left: 0.8rem;
+}
+.bottom{
+	width: 10.8rem;
+	margin-top: 1.48rem;
+	height: 17.73rem;
+	overflow: scroll;
+}
+.bottom li{
+	width: 5.37rem;
+	float: left;
+	position: relative;
+}
+.bottom_kong{
+	margin-right: 0.06rem;
+}
+.bottom img{
+	width: 5.37rem;
+}
+.touxiang{
+	position: absolute;
+	width: 0.8rem;
+	height: 0.8rem;
+	border-radius: 0.8rem;
+	overflow: hidden;
+	left: 0.15rem;
+	bottom: 0.3rem;
+}
+.bottom p{
+	line-height: 0.8rem;
+	font-size: 0.3rem;
+	color: #C5C5C5;
+	height: 0.8rem;
+	font-family: iconfont;
+	margin-left: 4.1rem;
+}

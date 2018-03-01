@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_h9frdzif3i2g9zfr.eot');
+  src: url('https://at.alicdn.com/t/font_571612_h9frdzif3i2g9zfr.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_h9frdzif3i2g9zfr.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571612_h9frdzif3i2g9zfr.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_h9frdzif3i2g9zfr.svg#iconfont') format('svg');
+}
+.quanxian_top{
+	width: 10.8rem;
+	height: 1.48rem;
+	background-color: #F6F6F6;
+	padding:0.4rem 0.45rem; 
+	font-size: 0.5rem;
+	color: #525252;
+	border-bottom:0.01rem solid  #E2E2E2;
+}
+.quanxian_top span:first-child{
+	margin-right: 3.3rem;
+	font-family: iconfont;
+	float: left;
+}
+.quanxian_top span:last-child{
+	margin:0 auto; 
+}
+.quanxian_bottom{
+	height: 17.7rem;
+	width: 10.8rem;
+	background-color: #F6F6F6; 
+	padding-top: 1.5rem; 
+
+}
+.live{
+	width: 1.8rem;
+	height: 1.8rem;
+	border-radius: 1.8rem;
+	background-color: #F2A670;
+	margin:0 auto;
+	font-size: 0.3rem;
+	color: #fff;
+	line-height: 1.8rem;
+	text-align: center;
+}
+.quanxian_bottom p{
+	font-size: 0.5rem;
+	color: #777;
+	margin: 0 auto;
+	text-align: center;
+}
+.quanxian_bottom p:nth-of-type(1){
+	margin-top: 1.5rem;
+	margin-bottom: 0.8rem;
+}
+.xiayibu{
+	width: 10rem;
+	height: 1.2rem;
+	background-color: #F2A670;
+	border-radius: 1.2rem;
+	margin:0.7rem auto 6.8rem auto;
+	font-size: 0.5rem;
+	color: #fff;
+	text-align: center; 
+	line-height: 1.2rem;
+}
+.end{
+	width: 6rem;
+	height: 0.6rem;
+	margin:0 auto; 
+}
+.quanxian_bottom span:nth-of-type(1){
+	font-size: 0.44rem;
+	color: #ABABAB;
+	float: left;
+}
+.quanxian_bottom span:nth-of-type(2){
+	font-size: 0.46rem;
+	color: #586C95;
+	float: left;
+}
+.tongyi{
+	width: 0.6rem;
+	height: 0.6rem;
+	border-radius: 0.6rem;
+	background-color: #F2A670;
+	float:left;
+	font-family: iconfont;
+	color: #fff;
+	font-size: 0.4rem;
+	line-height: 0.6rem;
+	text-align: center;
+}

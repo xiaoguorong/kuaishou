@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.eot');
+  src: url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.woff') format('woff'),
+  url('hthps://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.svg#iconfont') format('svg');
+}
+.quanxian_top{
+	width: 10.8rem;
+	height: 1.48rem;
+	background:url('../img/bg.png');
+	padding:0.4rem 0.45rem; 
+	font-size: 0.5rem;
+	color: #525252;
+}
+.self_top{
+	height: 6rem;
+	color: #fff;
+}
+.quanxian_top span:first-child{
+	margin-right: 3.3rem;
+	font-family: iconfont;
+	float: left;
+}
+.quanxian_top span:nth-child(2){
+	margin:0 auto; 
+}
+.quanxian_top span:nth-child(3){
+	float: right; 
+	font-family: iconfont;
+	font-size: 0.7rem;
+	margin-top: -0.03rem;
+}
+.self_middle{
+	width: 10.8rem;
+	height: 4.5rem;
+}
+.self_middle_tou{
+	width: 2.7rem;
+	height: 2.7rem;
+	border-radius: 2.7rem;
+	overflow: hidden;
+	margin-top: -1rem;
+	margin-left: 0.35rem;
+	float: left;
+}
+.self_middle span{
+	float: left;
+	font-size: 0.5rem;
+	color: #777777;
+	margin-left: 0.6rem;
+	margin-top: 0.25rem;
+	margin-bottom: 0.17rem;
+}
+.bianji{
+	width: 6.8rem;
+	height: 0.8rem;
+	border-radius: 0.1rem;
+	border: 0.02rem solid #F2A670;
+	color: #F2A670;
+	text-align: center;
+	line-height: 0.8rem;
+	font-size: 0.4rem;
+	float: right;
+	margin-right: 0.45rem;
+}
+.self_middle p{
+	color: #9F9F9F;
+	font-size: 0.42rem;
+	margin-left: 0.45rem;
+	float: left;
+	margin-top: 0.2rem;
+}
+.self_middle ul{
+	float: left;
+}
+.self_middle li{
+	width: 3.6rem;
+	height: 1.2rem;
+	font-size: 0.5rem;
+	text-align: center;
+	line-height: 1.2rem;
+	float: left;
+	color: #777777;
+}
+.self_middle li:hover{
+	color: #F2A670;
+}
+.self_bottom{
+	width: 10.8em;
+	height: 9.31rem;
+	background-color: #F6F6F6;
+	margin-top: -0.6rem;
+	padding-top: 5rem;
+}
+.self_bottom p{
+	font-size: 0.35rem;
+	color: #C8C8C8;
+	text-align: center;
+
+}
+.kuaipai{
+	width: 3.1rem;
+	height: 0.7rem;
+	background-color: #6BD379;
+	margin: 0 auto;
+	border-radius: 0.7rem;
+	color: #fff;
+	text-align: center;
+	font-size: 0.35rem;
+	line-height: 0.7rem;
+	margin-top: 0.3rem;
+}

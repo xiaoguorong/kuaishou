@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.eot');
+  src: url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_vb1kwxpvzz4obt9.svg#iconfont') format('svg');
+}
+.item_top{
+	width: 10.8rem;
+	height: 29.8rem;
+	overflow: scroll;
+}
+.tou{
+	width: 10.8rem;
+	height: 1.48rem;
+	background-color: #F6F6F6;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+.tou span{
+	font-size: 0.65rem;
+	color: #9D9D9D;
+	font-family: iconfont;
+	float: left;
+	margin-left: 0.4rem;
+	margin-right: 0.23rem;
+	margin-top: 0.4rem;
+}
+.tou span:last-of-type{
+	font-size: 0.75rem;
+	margin-top: 0.35rem;
+}
+.tou span:first-of-type{
+	font-size: 0.55rem;
+	margin-top: 0.45rem;
+}
+.item_touxiang{
+	width: 1.1rem;
+	height: 1.1rem;
+	border-radius: 1.1rem;
+	overflow: hidden;
+	float: right;
+	margin-top: 0.25rem;
+	margin-right: 0.4rem;
+}
+.item{
+	width: 10.8rem;
+	height: 17.73rem;
+	overflow: hidden;
+	margin-top: 1.48rem;
+}
+.neirong{
+	width: 10.8rem;
+	height: 6.6rem;
+	overflow: hidden;
+	padding-bottom: 0.1rem;
+	border-bottom: 0.01rem solid #ccc;
+}
+.neirong span:first-child{
+	float: left;
+	font-size: 0.4rem;
+	margin-left: 0.35rem;
+	line-height: 0.8rem;
+	color: #C9C9C9;
+}
+.neirong span:nth-child(2){
+	float: right;
+	font-size: 0.4rem;
+	margin-right: 0.35rem;
+	line-height: 0.8rem;
+	color: #C9C9C9;
+}
+.neirong p{
+	font-size: 0.43rem;
+	line-height: 0.5rem;
+	color: #888888;
+	float: left;
+	padding-left: 0.35rem;
+	padding-right: 0.35rem;
+	letter-spacing: 0.01rem;
+	margin-bottom: 0.8rem;
+}
+.neirong em{
+	font-size: 0.45rem;
+	line-height: 0.8rem;
+	color: #C9C9C9;
+	font-family: iconfont;
+}
+.neirong b{
+	font-size: 0.43rem;
+	margin-left: 0.15rem;
+	margin-right: 0.1rem;
+	line-height: 0.5rem;
+	color: #7787A9;
+}
+.xihuan1{
+	width: 10.8rem;
+	font-size: 0.35rem;
+	line-height: 0.4rem;
+	color: #C9C9C9;
+	float: left;
+}
+.pinglun1{
+	margin-top: -0.9rem;
+	width: 10.8rem;
+	font-size: 0.4rem;
+	line-height: 0.8rem;
+	color: #C9C9C9;
+	float: left;
+}
+.xihuan1 i,.pinglun1 i,.xihuan1 em,.pinglun1 em{
+	font-size: 0.4rem;
+}
+.item_liuyan{
+	width: 10.8rem;
+}
+.item_liuyan li{
+	padding:0.15rem 0 0 0.3rem;
+	overflow: hidden;
+}
+.item_liuyan_left{
+	width: 1.2rem;
+	height: 1.2rem;
+	border-radius: 1.2rem;
+	overflow: hidden;
+	float: left;
+}
+.item_liuyan_right{
+	width: 9rem;
+	overflow: hidden;
+	float: right;
+	font-size: 0.4rem;
+	line-height: 0.65rem;
+	padding-bottom: 0.25rem;
+	border-bottom: 0.01rem solid #ccc;
+}
+.item_liuyan_right i{
+	float: right;
+	margin-right: 0.3rem;
+	font-size: 0.3rem;
+	color: #E6E6E6;
+}
+.item_liuyan_right p:first-child{
+	color: #7384A7;
+	font-weight: 500;
+}

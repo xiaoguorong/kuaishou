@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 571612 */
+  src: url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.eot');
+  src: url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_571612_6re3org1cn4p9zfr.svg#iconfont') format('svg');
+}
+.quanxian_top span:nth-child(3){
+	float: right;
+	font-size: 0.45rem;
+}
+.xiala{
+	font-family: iconfont;
+}
+.xiangce_tu{
+	width: 6rem;
+	height: 10.08rem;
+	margin: 0 auto;
+	margin-bottom: 0.1rem;
+	overflow: hidden;
+}
+.xiangce_tutu{
+	width: 10.8rem;
+	height: 6.54rem;
+	overflow:scroll;
+}
+.xiangce_tutu ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.xiangce_tutu li{
+	width: 2.66rem;
+	height: 2.66rem;
+	flex-shrink: 0;
+	overflow: hidden;
+	margin-bottom: 0.05rem;
+	font-family: iconfont;
+	font-size: 1.3rem;
+	text-align: center;
+	line-height: 2.66rem;
+	background-color: #000;
+	color: #fff;
+}
+.duotu{
+	width: 1.85rem;
+	height: 0.75rem;
+	background-color: #F2A670;
+	margin-right: -2.1rem;
+	margin-top: 9rem;
+	float: right;
+	border-radius: 0.1rem;
+	font-family: iconfont;
+	font-size: 0.42rem;
+	text-align: center;
+	color: #fff;
+	line-height: 0.75rem;
+}
